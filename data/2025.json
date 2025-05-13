@@ -1,0 +1,296 @@
+{
+	"year": 2025,
+	"host_country": "Switzerland",
+	"host_city": "Basel",
+	"venue": {
+		"name": "St. Jakobshalle",
+		"capacity": 12400,
+		"location": "Münchenstein, Basel-Landschaft"
+	},
+	"dates": {
+		"turquoise_carpet": "2025-05-11",
+		"semi_final_1": "2025-05-13",
+		"semi_final_2": "2025-05-15",
+		"grand_final": "2025-05-17"
+	},
+	"show_times": "21:00 CEST",
+	"presenters": [
+		"Hazel Brugger",
+		"Sandra Studer",
+		"Michelle Hunziker (Grand Final only)"
+	],
+	"executive_producers": ["Reto Peritz", "Moritz Stadler"],
+	"head_of_show": "Yves Schifferle",
+	"esc_director": "Martin Green",
+	"executive_supervisor": "Martin Österdahl",
+	"host_broadcaster": "SRG SSR",
+	"official_links": {
+		"event_page": "https://eurovision.tv/event/basel-2025",
+		"participants_page": "https://eurovision.tv/event/basel-2025/participants",
+		"all_songs_page": "https://eurovision.tv/story/eurovision-2025-all-37-songs",
+		"youtube_playlist": "https://www.youtube.com/playlist?list=PLmWYEDTNOGUJG7RV2ARlG2OCpq8oNwz2s",
+		"recap_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs",
+		"songs_and_videos": "https://eurovisionworld.com/eurovision/songs-videos"
+	},
+	"participating_countries": [
+		{
+			"country": "Albania",
+			"artist": "Shkodra Elektronike",
+			"song": "Zjerm",
+			"eurovision_song_page": "https://eurovision.tv/participant/shkodra_elektronike-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=5s"
+		},
+		{
+			"country": "Armenia",
+			"artist": "PARG",
+			"song": "SURVIVOR",
+			"eurovision_song_page": "https://eurovision.tv/participant/parg-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=35s"
+		},
+		{
+			"country": "Australia",
+			"artist": "Go-Jo",
+			"song": "Milkshake Man",
+			"eurovision_song_page": "https://eurovision.tv/participant/go-jo-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=65s"
+		},
+		{
+			"country": "Austria",
+			"artist": "JJ",
+			"song": "Wasted Love",
+			"eurovision_song_page": "https://eurovision.tv/participant/jj-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=95s"
+		},
+		{
+			"country": "Azerbaijan",
+			"artist": "Mamagama",
+			"song": "Run With U",
+			"eurovision_song_page": "https://eurovision.tv/participant/mamagama-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=125s"
+		},
+		{
+			"country": "Belgium",
+			"artist": "Red Sebastian",
+			"song": "Strobe Lights",
+			"eurovision_song_page": "https://eurovision.tv/participant/red-sebastian-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=155s"
+		},
+		{
+			"country": "Croatia",
+			"artist": "Marko Bošnjak",
+			"song": "Poison Cake",
+			"eurovision_song_page": "https://eurovision.tv/participant/marko-bosnjak-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=185s"
+		},
+		{
+			"country": "Cyprus",
+			"artist": "Theo Evan",
+			"song": "Shh",
+			"eurovision_song_page": "https://eurovision.tv/participant/theo-evan-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=215s"
+		},
+		{
+			"country": "Czechia",
+			"artist": "ADONXS",
+			"song": "Kiss Kiss Goodbye",
+			"eurovision_song_page": "https://eurovision.tv/participant/adonxs-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=245s"
+		},
+		{
+			"country": "Denmark",
+			"artist": "Sissal",
+			"song": "Hallucination",
+			"eurovision_song_page": "https://eurovision.tv/participant/denmark-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=275s"
+		},
+		{
+			"country": "Estonia",
+			"artist": "Tommy Cash",
+			"song": "Espresso Macchiato",
+			"eurovision_song_page": "https://eurovision.tv/participant/tommy-cash-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=305s"
+		},
+		{
+			"country": "Finland",
+			"artist": "Erika Vikman",
+			"song": "Ich Komme",
+			"eurovision_song_page": "https://eurovision.tv/participant/erika-vikman-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=335s"
+		},
+		{
+			"country": "France",
+			"artist": "Louane",
+			"song": "Maman",
+			"eurovision_song_page": "https://eurovision.tv/participant/louane-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=365s"
+		},
+		{
+			"country": "Georgia",
+			"artist": "Mariam Shengelia",
+			"song": "Freedom",
+			"eurovision_song_page": "https://eurovision.tv/participant/mariam-shengelia-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=395s"
+		},
+		{
+			"country": "Germany",
+			"artist": "Abor & Tynna",
+			"song": "Baller",
+			"eurovision_song_page": "https://eurovision.tv/participant/abor-tynna-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=425s"
+		},
+		{
+			"country": "Greece",
+			"artist": "Klavdia",
+			"song": "Asteromáta",
+			"eurovision_song_page": "https://eurovision.tv/participant/klavdia-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=455s"
+		},
+		{
+			"country": "Iceland",
+			"artist": "VÆB",
+			"song": "RÓA",
+			"eurovision_song_page": "https://eurovision.tv/participant/VÆB-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=485s"
+		},
+		{
+			"country": "Ireland",
+			"artist": "EMMY",
+			"song": "Laika Party",
+			"eurovision_song_page": "https://eurovision.tv/participant/emmy-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=515s"
+		},
+		{
+			"country": "Israel",
+			"artist": "Yuval Raphael",
+			"song": "New Day Will Rise",
+			"eurovision_song_page": "https://eurovision.tv/participant/yuval-raphael-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=545s"
+		},
+		{
+			"country": "Italy",
+			"artist": "Lucio Corsi",
+			"song": "Volevo Essere Un Duro",
+			"eurovision_song_page": "https://eurovision.tv/participant/lucio-corsi-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=575s"
+		},
+		{
+			"country": "Latvia",
+			"artist": "Tautumeitas",
+			"song": "Bur Man Laimi",
+			"eurovision_song_page": "https://eurovision.tv/participant/tautumeitas-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=605s"
+		},
+		{
+			"country": "Lithuania",
+			"artist": "Katarsis",
+			"song": "Tavo Akys",
+			"eurovision_song_page": "https://eurovision.tv/participant/katarsis-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=635s"
+		},
+		{
+			"country": "Luxembourg",
+			"artist": "Laura Thorn",
+			"song": "La Poupée Monte Le Son",
+			"eurovision_song_page": "https://eurovision.tv/participant/laura-thorn-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=665s"
+		},
+		{
+			"country": "Malta",
+			"artist": "Miriana Conte",
+			"song": "Serving",
+			"eurovision_song_page": "https://eurovision.tv/participant/miriana-conte-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=695s"
+		},
+		{
+			"country": "Montenegro",
+			"artist": "Nina Žižić",
+			"song": "Dobrodošli",
+			"eurovision_song_page": "https://eurovision.tv/participant/nina-zizic-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=725s"
+		},
+		{
+			"country": "Netherlands",
+			"artist": "Claude",
+			"song": "C’est La Vie",
+			"eurovision_song_page": "https://eurovision.tv/participant/claude-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=755s"
+		},
+		{
+			"country": "Norway",
+			"artist": "Kyle Alessandro",
+			"song": "Lighter",
+			"eurovision_song_page": "https://eurovision.tv/participant/kyle-alessandro-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=771s"
+		},
+		{
+			"country": "Poland",
+			"artist": "Justyna Steczkowska",
+			"song": "Gaja",
+			"eurovision_song_page": "https://eurovision.tv/participant/justyna-steczkowska-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=801s"
+		},
+		{
+			"country": "Portugal",
+			"artist": "NAPA",
+			"song": "Deslocado",
+			"eurovision_song_page": "https://eurovision.tv/participant/napa-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=831s"
+		},
+		{
+			"country": "San Marino",
+			"artist": "Gabry Ponte",
+			"song": "Tutta L’Italia",
+			"eurovision_song_page": "https://eurovision.tv/participant/gabry-ponte-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=861s"
+		},
+		{
+			"country": "Serbia",
+			"artist": "Princ",
+			"song": "Mila",
+			"eurovision_song_page": "https://eurovision.tv/participant/princ-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=891s"
+		},
+		{
+			"country": "Slovenia",
+			"artist": "Klemen",
+			"song": "How Much Time Do We Have Left",
+			"eurovision_song_page": "https://eurovision.tv/participant/klemen-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=921s"
+		},
+		{
+			"country": "Spain",
+			"artist": "Melody",
+			"song": "Esa Diva",
+			"eurovision_song_page": "https://eurovision.tv/participant/melody-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=951s"
+		},
+		{
+			"country": "Sweden",
+			"artist": "KAJ",
+			"song": "Bara Bada Bastu",
+			"eurovision_song_page": "https://eurovision.tv/participant/kaj-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=981s"
+		},
+		{
+			"country": "Switzerland",
+			"artist": "Zoë Më",
+			"song": "Voyage",
+			"eurovision_song_page": "https://eurovision.tv/participant/zoe-me-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=1011s"
+		},
+		{
+			"country": "Ukraine",
+			"artist": "Ziferblat",
+			"song": "Bird of Pray",
+			"eurovision_song_page": "https://eurovision.tv/participant/ziferblat-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=1041s"
+		},
+		{
+			"country": "United Kingdom",
+			"artist": "Remember Monday",
+			"song": "What The Hell Just Happened?",
+			"eurovision_song_page": "https://eurovision.tv/participant/remember-monday-2025",
+			"youtube_video": "https://www.youtube.com/watch?v=FQvYLMhvHSs&t=1071s"
+		}
+	]
+}

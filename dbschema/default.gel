@@ -1,0 +1,26 @@
+module default {
+    type Song {
+        required title: str;
+        required artist: str;
+        required country: str;
+        eurovision_song_page: str;
+        youtube_video: str;
+    }
+    
+    type Semifinal {
+        required datetime: datetime;
+
+    }
+    
+    type EurovisionEdition {
+        required year: int16 {
+            constraint exclusive;
+        }
+        required hostCountry: str;
+        winner: str;
+
+        multi link songs: Song;
+        multi link semifinals: Semifinal;
+    }
+
+}
