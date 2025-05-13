@@ -7,6 +7,25 @@ app = FastAPI()
 client = create_client()
 
 
+class RootEurovisionEdition(BaseModel):
+    year: int
+    winner: str | None = None
+    hostCountry: str
+
+
+@app.get("/editions", response_model=list[RootEurovisionEdition])
+async def editions():
+    result = client.query("""
+        select EurovisionEdition { 
+            year, 
+            winner, 
+            hostCountry, 
+        }
+    """)
+
+    return result
+
+
 class Song(BaseModel):
     title: str
     artist: str
@@ -20,13 +39,6 @@ class EurovisionEdition(BaseModel):
     winner: str | None = None
     hostCountry: str
     songs: list[Song]
-
-
-@app.get("/editions", response_model=list[EurovisionEdition])
-async def editions():
-    result = client.query("select EurovisionEdition { year, winner, hostCountry }")
-
-    return result
 
 
 @app.get("/{year}", response_model=EurovisionEdition)
